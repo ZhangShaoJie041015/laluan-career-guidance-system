@@ -46,6 +46,10 @@ This project is currently in the proposal and planning phase as part of a Final 
 
 - Laluan Project Proposal
 
+## System Design Preview
+
+![Laluan Low Fidelity Model](Laluan_Low_Fidelity_Model.png)
+
 ## Status
 
 Ongoing Development (Proposal Completed)
